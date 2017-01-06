@@ -84,7 +84,8 @@
  
  </reporting>
  					<scm>
-					<connection>scm:svn:svn://IPSERVEUR/repository1/monappli-web</connection>
-					 <url>http://IPSERVEUR/svn/monappli-web</url>
+					<connection>scm:git:git://github.com/gdenoual/tpsirmaven.git</connection>
+					 <url>https://github.com/gdenoual/tpsirmaven/commit/</url>
 					</scm>
+					
 </project>
